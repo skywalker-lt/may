@@ -83,10 +83,10 @@ be appended here.
 
 ## Roadmap
 
-1. Finish the 80-epoch three-arm test and the seminar-5 feasibility evaluation; rank the directions by measured
-   headroom, deployability and cost; fund at most two.
-2. Buy the cheap receipts the ranking names (expected: the tile-choice refiner stub build on TensorRT, the forced
-   dumps that bound MoR and the level ladder), each under 4 H200 hours.
+1. One T4 session: time L at 448-576 and M at 448-608, the thumbnail routers and the Resize-fed conditional engine, with
+   dense M in the same session, to fix the envelope.
+2. The two 4-hour frozen-trunk receipts on the H200: the tile expert (learned route against random tiles, k = 0 and all
+   tiles from one checkpoint) and the rung specialist (routed-image head against an all-image head and a 640 control).
 3. One 80-epoch run per surviving construct with its dense control, kill rules pre-registered, then the T4 and L4
    rows under the protocol.
 4. The write-up ships under every outcome: the two-device method, the measured tables, the dense controls and the
