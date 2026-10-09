@@ -83,8 +83,8 @@ be appended here.
 
 ## Roadmap
 
-1. One T4 session: time L at 448-576 and M at 448-608, the thumbnail routers and the Resize-fed conditional engine, with
-   dense M in the same session, to fix the envelope.
+1. Done 2026-10-09: the T4 session that fixed the envelope (L at 448-576, M at 448-608, the conditional engines on real
+   inputs).
 2. The two 4-hour frozen-trunk receipts on the H200: the tile expert (learned route against random tiles, k = 0 and all
    tiles from one checkpoint) and the rung specialist (routed-image head against an all-image head and a 640 control).
 3. One 80-epoch run per surviving construct with its dense control, kill rules pre-registered, then the T4 and L4
