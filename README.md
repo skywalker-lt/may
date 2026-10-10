@@ -1,5 +1,9 @@
 # may: Mixture of Anything on YOLO
 
+> **Status: abandoned (2026-10-10).** COCO is no longer the target. No routed construct beat the dense YOLO26
+> envelope at equal T4 latency; see [SUMMARY.md](SUMMARY.md) for the result, the measurements and what was closed.
+> The repository is kept read-only as a record.
+
 Routed real-time detectors built on the YOLO26 family: mixtures of experts (MoE), attention (MoA), tokens (MoT),
 resolution (MoR) and depth (MoD), plus whatever else can be routed per image or per region inside one static
 TensorRT engine. The research question is narrow and measurable: **can a routed YOLO beat the dense YOLO front at
