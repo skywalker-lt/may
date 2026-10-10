@@ -1,0 +1,10 @@
+# weights, engines, detection dumps and caches stay out of this repository
+*.pt
+*.pth
+*.onnx
+*.engine
+*.npy
+*.npz
+*.pkl
+*.cache
+__pycache__/
